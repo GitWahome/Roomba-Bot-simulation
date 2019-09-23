@@ -1,5 +1,5 @@
-Read the PDF File for a discussion of the simulatio logic.
-https://github.com/GitWahome/Roomba-Bot-simulation/blob/master/FinalProject_CS166.pdf
+Read the Roomboji.pdf File for a discussion of the simulation logic.
+
 
 Video Demos for the different strategies here:
 
